@@ -12,4 +12,10 @@ I help customers run platforms in public, private and hybrid cloud.
 
 **[profile.portableinfo.cloud](https://profile.portableinfo.cloud)** ·
 [LinkedIn](https://www.linkedin.com/in/caspertdk) ·
-[CertDirectory](https://certdirectory.io/profile/caspertdk)
+
+<a href="https://certdirectory.io/profile/caspertdk?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/caspertdk.svg?style=card&theme=dark">
+    <img alt="Casper Thygesen on CertDirectory" src="https://certdirectory.io/badge/caspertdk.svg?style=card">
+  </picture>
+</a>
